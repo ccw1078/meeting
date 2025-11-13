@@ -16,7 +16,6 @@
 # 录制流程
 
 ![](https://lhwccw.oss-cn-shenzhen.aliyuncs.com/202511131401862.png)
-<!-- 
 
 
 # 获取录制文件
